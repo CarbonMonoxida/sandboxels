@@ -72,5 +72,5 @@ elements.computer = {
                     "virus": { elem1 : null , elem2:"malware", chance:0.9 },
                     "water": { elem1: null , elem2: "electric" },                    
                  }
-};
+} 
 
